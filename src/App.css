@@ -1,3 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 .App {
   text-align: center;
 }
@@ -32,7 +36,66 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar {
+  background-color: white;
+
+}
+
+.navbar-brand {
+  color: purple;
+  font-weight: bold;
+}
+
+li {
+  font-weight: bold;
+
+
+}
+
+.nav-link {
+  color: purple;
+}
+
+dark .bg-dark-primary {
+  background-color: #1f2937;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+P {
+  font-family: 'Satisfy', cursive;
+}
+
+@keyframes spin-animation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: spin-animation 10s infinite linear;
+}
+@keyframes scroll {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+.animate-scrolling {
+  animation: scroll 20s linear infinite;
 }
