@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Amazibg/static/css/main.15a5f3fd.css",
+    "main.js": "/Amazibg/static/js/main.64425349.js",
+    "static/js/963.217d9ba5.chunk.js": "/Amazibg/static/js/963.217d9ba5.chunk.js",
+    "static/js/413.0650488b.chunk.js": "/Amazibg/static/js/413.0650488b.chunk.js",
+    "static/js/636.d21cbf35.chunk.js": "/Amazibg/static/js/636.d21cbf35.chunk.js",
+    "static/js/988.4c853e6f.chunk.js": "/Amazibg/static/js/988.4c853e6f.chunk.js",
+    "index.html": "/Amazibg/index.html",
+    "main.15a5f3fd.css.map": "/Amazibg/static/css/main.15a5f3fd.css.map",
+    "main.64425349.js.map": "/Amazibg/static/js/main.64425349.js.map",
+    "963.217d9ba5.chunk.js.map": "/Amazibg/static/js/963.217d9ba5.chunk.js.map",
+    "413.0650488b.chunk.js.map": "/Amazibg/static/js/413.0650488b.chunk.js.map",
+    "636.d21cbf35.chunk.js.map": "/Amazibg/static/js/636.d21cbf35.chunk.js.map",
+    "988.4c853e6f.chunk.js.map": "/Amazibg/static/js/988.4c853e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a5f3fd.css",
+    "static/js/main.64425349.js"
+  ]
+}
